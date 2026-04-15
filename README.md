@@ -1,5 +1,5 @@
 # Hackaton_Game_Space
-A hackaton winning game, made in a team of 6 people with 2 developers. We made an educaitional game about space and won first place in the category physics.
+A hackaton winning game, made in a team of 6 people with 2 developers. We made an educaitional game about space and won first place in the category physics - made in Russian. Link to the article with our team picture there as winners: https://platform.kruzhok.org/tpost/9kaxgbc651-studenti-kolledzhei-i-vuzov-36-chasov-so
 
 Itcho.io link: https://morning-tea-studio.itch.io/to-the-stars
 
